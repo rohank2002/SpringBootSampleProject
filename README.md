@@ -1,2 +1,2 @@
 # SpringBootSampleProject
-The Repository contains sample spring boot projects.
+This Repository contains sample spring boot projects for beginers. 
